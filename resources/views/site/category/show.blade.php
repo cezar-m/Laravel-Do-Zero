@@ -1,0 +1,1 @@
+aqui e a tela de categorias do produtos {{$slug}}
